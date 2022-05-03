@@ -18,3 +18,6 @@ Scraper de noticias- Proyecto del curso Wed Scraping con Python
 ## Tiempos del curso:
 * 2 Horas de contenido
 * 10 Horas de práctica
+
+## Titulo de prueba, Segundo commit
+* Este commit lo realizaré desde la linea de comandoas integrada en Deepnote hasta Githud
