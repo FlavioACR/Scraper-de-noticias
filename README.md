@@ -11,10 +11,12 @@ El web Scraping es una tecnica utilizada por desarolladore en todo el mundo, tan
 * Navegador Web
 * Terminal y línea de comandos Git dentro de Deepnote
 * Notebooks en Deepnote
-* Githud 
+* Github
+* XPath
+* Consola Integrada al Navegador
 
 ## Conocimientos previos
-* Python básico
+* Python básico-Intermedio
 * HTML
 
 ## Tiempos del curso:
