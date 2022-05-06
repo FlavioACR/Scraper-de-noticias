@@ -1,0 +1,4 @@
+Links = $x('//h2[@class = "headline"]/a/@href').map(x => x.value)
+Titulo = $x('//div[@class = "wrap-info"]/h1/text()').map(x => x.wholeText)
+Resumen = $x('//div[@class = "lead"]/p/text()').map(x => x.wholeText)
+Cuerpo = $x('//div[@class = "news empresasSect"]//div[@class = "html-content"]//text()').map(x => x.wholeText)
