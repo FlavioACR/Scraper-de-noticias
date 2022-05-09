@@ -1,4 +1,4 @@
-Links = $x('//h2[@class = "headline"]/a/@href').map(x => x.value)
-Titulo = $x('//div[@class = "wrap-info"]/h1/text()').map(x => x.wholeText)
-Resumen = $x('//div[@class = "lead"]/p/text()').map(x => x.wholeText)
-Cuerpo = $x('//div[@class = "news empresasSect"]//div[@class = "html-content"]//text()').map(x => x.wholeText)
+Links = '//div[@class = "flex-grow-1 mr-5"]//div[@class = "news V_Title_Img"]/a/@href'
+Titulo = '//div[@class = "wrap-info"]/h1/text()'
+Resume = '//div[@class = "lead"]/p/text()'
+Cuerpo = '//div[@class = "news empresasSect"]//div[@class = "html-content"]//text()'
