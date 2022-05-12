@@ -1,0 +1,111 @@
+Titulo: Tendremos tarjeta debito que permita gastar en dolares digitales en todo el mundo
+
+Resumen: Littio, la plataforma que permite ahorrar en USDCoin, habilitará el envío de remesas y la transferencia de estos activos virtuales 
+
+Cuerpo: 
+    
+El dólar se ha encarecido más de $1.102 en los últimos cuatro años y, según cifras de Bloomberg, el peso colombiano se ha devaluado 26,90% en ese mismo periodo. Si bien las oscilaciones en la economía afectan el bolsillo de todos, existen diversas formas de ahorrar, entre las que se encuentran la compra de dólares digitales, una posibilidad que abre la aplicación Littio.
+
+
+Luis Huertas, CEO y cofundador de la plataforma, aseguró que en los próximos meses van a lanzar una tarjeta débito global para poder gastar la plata en cualquier parte, con lo cual esperan cerrar el año con 40.000 usuarios habilitados y cerca de US$50 millones en activos digitales.
+
+
+¿Cómo funciona Littio?
+
+
+En términos prácticos funcionamos como una billetera en donde las personas pueden comprar y guardar activos virtuales, los cuales son conocidos como dólares digitales o USDCoin, entendida como una moneda estable. Nosotros no manejamos dinero de los usuarios.
+
+
+Nuestra propuesta está encaminada al ahorro en dólares. Es tan sencillo como descargar una aplicación, surtir un proceso de verificación de identidad y del origen de los fondos de cada cuenta. En este momento, la billetera se puede recargar desde PSE o con una tarjeta de crédito.
+
+
+Es decir, ¿no captan dinero?
+
+
+Nosotros no captamos dinero. Lo que hacemos es facilitar la compra y venta de estos activos digitales a través de tecnología que permite sentirse en un banco en la nube. No somos una plataforma que mete a las personas en el mundo de las criptomonedas; por el contrario, buscamos alejarnos de eso y brindar una solución que proteja contra la devaluación del peso colombiano.
+
+
+¿Cómo se maneja la tarifa frente a la moneda local?
+
+
+Los dólares digitales que se venden a través de Littio están correlacionados con la Tasa Representativa del Mercado (TRM) del dólar oficial en Colombia. Aun así, nos dedicamos a vender esos activos a un menor precio gracias a que los conseguimos a través de otros proveedores de liquidez.
+
+
+¿Hay factores externos que incidan en las stablecoin?
+
+
+El precio del dólar que ofrecemos está directamente atado a la tasa oficial. Si la TRM sube sustancialmente, nuestro precio de cambio va a hacerlo igualmente. Lo valioso de esto es la posibilidad de tener parte de su capital transformado en activos digitales en una moneda que representa una economía fuerte.
+
+
+Creemos que las los mercados emergentes como América Latina van a necesitar una doble vida financiera. Por un lado está la moneda local, y por el otro está la prevalencia de una moneda desarrollada que le permita a cada ciudadano viajar y comprar cosas por internet, entre otras posibilidades.
+
+
+¿Qué garantías hay de no caer en una estafa?
+
+
+La seguridad y la legitimidad ha sido un pilar de esta compañía y nuestros inversionistas. Littio es una plataforma segura en el sentido de que nosotros guardamos ese activo digital con partners en Estados Unidos. En torno a temas de infraestructura tecnológica, contamos con herramientas de última tecnología que hace casi imposible hackearnos.
+
+
+¿Esa recompensa de 8% es un tipo de rentabilidad para cada usuario?
+
+
+Funciona de forma similar. Hemos sido super cuidadosos con el uso de los términos para no dar un mensaje equivocado. Los activos digitales que se tienen en Littio generan ciertas ganancias que terminan traduciéndose en ese 8%. Parte de la asesoría legal que hemos tenido nos ha permitido tener claro por dónde podemos navegar y por dónde no.
+
+
+
+LOS CONTRASTES
+Jhon Torres Jiménez
+Economista y especialista en criptomonedas
+“Las monedas digitales pretenden responder a la demanda de dinero virtual y la facilidad de realizar transacciones entre países y continentes de forma sencilla y directa”.
+
+
+
+Esta stablecoin funciona tal cual lo hace una moneda tradicional en el mundo financiero. En el mundo digital, estas monedas funcionan como dinero líquido, lo que permite que se financie proyectos y nuevos negocios en este mismo panorama, lo que deja rentabilidades más altas que el mundo financiero tradicional.
+
+
+¿Se puede conocer en dónde se están invirtiendo mis stablecoin?
+
+
+Hacemos esto visible en mucha de nuestra documentación y muchos de los partners que utilizamos, son los mejores de EE.UU. como los creadores de USDCoin y Coinbase, quienes son vigilados por las autoridades del país norteamericano.
+
+
+¿Estas inversiones van a parar al universo virtual?
+
+
+Por definición, las monedas estables son una criptomoneda y eso hay que tenerlo presente; sin embargo, una cosa que se debe tener clara es que, pese a que usamos la tecnología blockchain, solo usamos monedas estables y no tenemos nada que ver con otras monedas, por lo cual somos ajenos a la volatilidad que generan las mismas.
+
+
+¿Cómo les fue en su ronda presemilla de inversión?
+
+
+Nosotros cerramos en enero una ronda de US$3,7 millones liderada por cuatro fondos. El mayor inversionista fue Adam Neuman, cofundador de WeWork; el segundo es Global Founders Capital y Justin Mateen, cofundador de Tinder.
+
+
+¿Puedo usar mis dólares digitales en cualquier lugar?
+
+
+En los próximos meses vamos a hacer muchos lanzamientos de nuevos servicios y funcionalidades en torno a nuestra plataforma. Vamos a habilitar una tarjeta débito global para poder gastar la plata en cualquier parte, además de tarjetas virtuales, cuentas con ApplePay y envío de remesas.
+
+
+¿Los establecimientos deben aceptar este tipo de pagos de forma explícita?
+
+
+La experiencia es completamente transparente para el usuario. Esta es una tarjeta soportada por una franquicia de gran renombre que puede ser usada en la panadería de la esquina, en Amazon, o en cualquier comercio.
+
+
+¿Cómo impactaría al negocio la entrada de una eventual moneda digital emitida por los bancos centrales?
+
+
+Las monedas estables son el vehículo perfecto para conectar el sistema financiero tradicional y el mundo del blockchain. Lo que creo que va a pasar es que antes que una emitida por la Reserva Federal, el Gobierno de Estados Unidos va a legitimar primero a quienes ya han avanzado en la materia.
+
+
+¿Qué cifras registran hasta ahora y cuál es la meta para este año?
+
+
+Hasta el momento tenemos casi 2.000 usuarios activos en nuestra plataforma. De estos clientes tenemos cerca de US$1 millón en activos digitales y prevemos que, al cierre de este año, llegaremos a los 40.000 compradores activos con cerca de US$50 millones, si se mantiene el crecimiento actual.
+
+
+
+
+
+Link de la noticia: https://www.larepublica.co/finanzas/tendremos-tarjeta-debito-que-permita-gastar-en-dolares-digitales-en-todo-el-mundo-3362028
