@@ -1,10 +1,13 @@
+
+
 #Librerias para el scraping:
 import requests as requests
 import lxml.html as html
 import os
 import datetime
 
-# Variables constantes, cada variable es una expresión para determinado dato del scraping:
+
+# Variables constantes, cada variable es una expresión XPATH para elemento determinado del scraping:
 
 HOME_URL = 'https://www.larepublica.co/'
 XPATH_LINK_TO_ARTICLE = '//a[contains(@class,"kicker")]/@href'
@@ -13,22 +16,32 @@ XPATH_SUMMARY = '//div[@class = "lead"]/p/text()'
 XPATH_BODY ='//div[@class="html-content"]//text()'
 
 
-# Función para obtener el titulo directamente del link: 
+# DEFINIMOS LAS FUNCIONES DEL PROGRAMA:
 
 def get_title(link):
+    '''
+    Función get_title:
+    Esta función se encarga de obtener el titulo de acuerdo al link proporcionado
+    el cual se recibe como parametro.
+    '''
     # 1 Separarémos por "/" y solo usaremos el ultimo que elemento 
     url = link.split('/')[-1]
     # 2 Separarémos por "-" y borraremos el ultimo elemento
     title_list=url.split('-')[:-1]
-    # 3 Unirémos todo lo anterion para obtener y retornar el titulo:
+    # 3 Unirémos todo lo anterior para obtener e titulo
     title = " ".join(title_list)
-    return(titl
-
+    # 4 Retornamo el titulo:
+    return(title)
 
 
 # Función que obtiene los elementos de cada link generado por la función pars_home():
 
 def parse_notice(link, today):
+    '''
+    Función parse_notice:
+
+    '''
+    # Creamos una variable para guardar los primeros dos digitos del nombre, tomando como base los ultimos dos digitos del link:
     name = link[-2:]
     try:
         response = requests.get(link)
