@@ -1,5 +1,3 @@
-
-
 #Librerias para el scraping:
 import requests as requests
 import lxml.html as html
@@ -7,8 +5,7 @@ import os
 import datetime
 
 
-# Variables constantes, cada variable es una expresión XPATH para elemento determinado del scraping:
-
+# Variables constantes, cada variable es una expresión XPATH para elemento dentro del sitio:
 HOME_URL = 'https://www.larepublica.co/'
 XPATH_LINK_TO_ARTICLE = '//a[contains(@class,"kicker")]/@href'
 XPATH_TITLE = '//div[@class="OpeningPostNormal"]//text()'
@@ -38,17 +35,27 @@ def get_title(link):
 
 def parse_notice(link, today):
     '''
-    Función parse_notice:
-
+    Obtiene la información requerida aplicando las las expresiones XPATH al link de los parametros que recibe.
+    
+    Parametros:
+    link:   Es el link al cual se busca aplicar la función.
+    today:  Es la fecha en la cual se esta realizando o ejecutando la función.
+   
+    Genera las siguientes variables internas:
+    title:     Almacena el titulo de la noticia
+    name_file: Almacena el nombre del archivo el cual es una concatenación de la variable name y los primeros dos strins del link
+    summary:   Almacena un resumen de la noticia
+    body:      Almacena el cuerpo de la noticia.
+    
+    Tranforma las convierte en un archivo tipo .txt, por cada ejecución de la función.   
     '''
-    # Creamos una variable para guardar los primeros dos digitos del nombre, tomando como base los ultimos dos digitos del link:
     name = link[-2:]
+    
     try:
         response = requests.get(link)
         if response.status_code == 200:
             notice = response.content.decode('utf-8')
             parsed = html.fromstring(notice)
-
             try:
                 title = str(get_title(link)).capitalize()
                 y = int(title.find(' '))
@@ -82,6 +89,16 @@ def parse_notice(link, today):
 
 # Función que obtiene los links de las noticias del periodico:
 def pars_home():
+    '''
+    Toma la variable contante global; HOME_URL: Almacena el URL de la pagina principal del sitio
+    y extrae todos los links de las noticias del sitio y los almacena en la variable:
+    
+    links_to_notice: Lista de links del sitio.
+    
+    Posteriormente crea una carpeta con a fecha de ejecución y en un ciclo for aplica llama a
+    la función parse_home(), para pasar como parametro todos los links del sitio y guardar dentro de la carpeta creada
+    todas la noticias en formato tipo.txt.
+    '''
     try:
         response = requests.get(HOME_URL)
         if response.status_code == 200:
