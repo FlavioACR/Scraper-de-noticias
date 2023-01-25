@@ -1,4 +1,4 @@
-# Scraper-de-noticias Platzi
+# Scraper-de-noticias
 Scraper de noticias- Proyecto del curso Wed Scraping con Python
 
 El web Scraping es una tecnica utilizada por desarolladore en todo el mundo, tanto como backends y cientificos de datos. utilizada para extraer información util de sitios de internet.
